@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\data\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\data\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\data\\ticketdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\data\\ticketdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|c:\\users\\clemente\\source\\repos\\apichamada\\apichamada\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED51A3BB-A314-437C-B3C3-D16DCD32AC08}|ApiChamada\\ApiChamada.csproj|solutionrelative:apichamada\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ApiChamada\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwDkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:47:56.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "ApiChamada\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:46:44.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiChamada\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAAALAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:40:03.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDao.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Data\\UserDao.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Data\\UserDao.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Data\\UserDao.cs",
+              "RelativeToolTip": "ApiChamada\\Data\\UserDao.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAwwFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:34:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Models\\User.cs",
+              "RelativeToolTip": "ApiChamada\\Models\\User.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA5wCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:27:27.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketDao.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Data\\TicketDao.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Data\\TicketDao.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Data\\TicketDao.cs",
+              "RelativeToolTip": "ApiChamada\\Data\\TicketDao.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAA1wEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:53:00.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Models\\Ticket.cs",
+              "RelativeToolTip": "ApiChamada\\Models\\Ticket.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:49:56.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "ApiChamada\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:31:21.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Program.cs",
+              "RelativeDocumentMoniker": "ApiChamada\\Program.cs",
+              "ToolTip": "C:\\Users\\Clemente\\source\\repos\\ApiChamada\\ApiChamada\\Program.cs",
+              "RelativeToolTip": "ApiChamada\\Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAwwG0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:02:52.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "login": {
+    "title": "Login",
+    "username": "Nome de Usuário",
+    "username_placeholder": "Digite seu nome de usuário",
+    "password": "Senha",
+    "password_placeholder": "Digite sua senha",
+    "submit": "Entrar",
+    "error": "Falha ao fazer login. Verifique suas credenciais."
+  },
+  "admin": {
+    "title": "Dashboard Admin",
+    "welcome": "Bem-vindo ao Dashboard",
+    "content": "Este é o conteúdo principal do dashboard.",
+    "admin_functions": "Funções de administrador disponíveis"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "users": "Usuários",
+    "reports": "Relatórios",
+    "settings": "Configurações"
+  },
+  "header": {
+    "title": "Dashboard Admin",
+    "profile": "Perfil",
+    "logout": "Sair"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Escuro",
+    "loading": "Carregando"
+  },
+  "language": {
+    "en": "Inglês",
+    "pt": "Português"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "content": "Visão geral do sistema."
+  },
+  "users": {
+    "title": "Usuários",
+    "content": "Gerenciar usuários do sistema.",
+    "admin_action": "Gerenciar Usuários (Apenas Admin)"
+  },
+  "reports": {
+    "title": "Relatórios",
+    "content": "Visualizar e gerar relatórios."
+  },
+  "settings": {
+    "title": "Configurações",
+    "content": "Configurar ajustes do sistema."
+  },
+  "profile": {
+    "title": "Perfil",
+    "update_name": "Atualizar Nome",
+    "name": "Nome",
+    "name_placeholder": "Digite seu nome",
+    "submit_name": "Salvar Nome",
+    "update_password": "Atualizar Senha",
+    "password": "Nova Senha",
+    "password_placeholder": "Digite a nova senha",
+    "confirm_password": "Confirmar Senha",
+    "confirm_password_placeholder": "Confirme a nova senha",
+    "submit_password": "Salvar Senha",
+    "name_updated": "Nome atualizado com sucesso.",
+    "password_updated": "Senha atualizada com sucesso.",
+    "password_mismatch": "As senhas não coincidem.",
+    "error": "Falha ao atualizar o perfil."
+  }
+}

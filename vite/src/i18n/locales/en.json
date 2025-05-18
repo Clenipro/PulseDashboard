@@ -1,0 +1,71 @@
+{
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "username_placeholder": "Enter your username",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "submit": "Sign In",
+    "error": "Login failed. Please check your credentials."
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "welcome": "Welcome to the Dashboard",
+    "content": "This is the main content of the dashboard.",
+    "admin_functions": "Administrator functions available"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "header": {
+    "title": "Admin Dashboard",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "loading": "Loading"
+  },
+  "language": {
+    "en": "English",
+    "pt": "Português"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "content": "Overview of the system."
+  },
+  "users": {
+    "title": "Users",
+    "content": "Manage system users.",
+    "admin_action": "Manage Users (Admin Only)"
+  },
+  "reports": {
+    "title": "Reports",
+    "content": "View and generate reports."
+  },
+  "settings": {
+    "title": "Settings",
+    "content": "Configure system settings."
+  },
+  "profile": {
+    "title": "Profile",
+    "update_name": "Update Name",
+    "name": "Name",
+    "name_placeholder": "Enter your name",
+    "submit_name": "Save Name",
+    "update_password": "Update Password",
+    "password": "New Password",
+    "password_placeholder": "Enter new password",
+    "confirm_password": "Confirm Password",
+    "confirm_password_placeholder": "Confirm new password",
+    "submit_password": "Save Password",
+    "name_updated": "Name updated successfully.",
+    "password_updated": "Password updated successfully.",
+    "password_mismatch": "Passwords do not match.",
+    "error": "Failed to update profile."
+  }
+}
